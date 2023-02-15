@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2> Cybersecurity Projects and Home Labs</h2>
 
-<!--
-**jc-tru/jc-tru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>Current Projects</b>
+  - Cybersecurity Detection and Monitoring Home Lab (In progress)
+  - Active Directory with PowerShell Home Lab
 
-Here are some ideas to get you started:
+- <b>Past Projects</b>
+  - [Reverse Engineering and Malware Analysis](https://github.com)
+  - [Secure Coding (C language): Vulnerability Analysis & Scanning](https://github.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>What I am Currently Learning/Studying</h2>
+
+- AWS Certified Cloud Practioner
+- CompTIA Security+
+- System Admin Skills (AD DC, Windows Server 2016, Networking, etc)
+- Scripting (Python, PowerShell)
+
