@@ -6,7 +6,7 @@
 
 - <b>Past Projects</b>
   - [Reverse Engineering and Malware Analysis](https://github.com)
-  - [Secure Coding (C language): Vulnerability Analysis & Scanning](https://github.com)
+  - [Secure Coding (C language): Vulnerability Analysis & Scanning](https://github.com/jc-tru/secure-coding)
 
 <h2>What I am Currently Learning/Studying</h2>
 
