@@ -8,7 +8,7 @@
   - AWS Cloud Security Configuration (Planning)
 
 - <b>Completed Projects</b>
-  - Reverse Engineering and Malware Analysis Lab (Fixing write-up)
+  - [Reverse Engineering and Malware Analysis Lab](https://github.com/jc-tru/malware-analysis)
   - [Secure Coding (C language): Vulnerability Analysis & Scanning](https://github.com/jc-tru/secure-coding)
 
 <h2>What I am Currently Learning/Studying</h2>
