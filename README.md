@@ -15,6 +15,6 @@
 
 - AWS Certified Cloud Practioner
 - CompTIA Security+
-- System Admin Skills (AD DC, Windows Server 2016, Networking, etc)
+- System Admin Skills (AD DC, Windows Server 2019, Networking, etc)
 - Scripting (Python, PowerShell)
 
