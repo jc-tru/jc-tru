@@ -3,7 +3,7 @@
 <h2>Cybersecurity Projects and Home Labs</h2>
 
 - <b>Ongoing Projects</b>
-  - [Cybersecurity Detection and Monitoring Home Lab (Write-up in progress)](https://github.com/jc-tru/siem-detection-and-monitoring)
+  - [Cybersecurity Detection and Monitoring Home Lab](https://github.com/jc-tru/siem-detection-and-monitoring)
   - Active Directory with PowerShell Home Lab (In progress - in conjunction with the lab above for AD DS section)
   - AWS Cloud Security Configuration (Planning)
 
