@@ -5,7 +5,7 @@
 - <b>Ongoing Projects</b>
   - [Cybersecurity Detection and Monitoring Home Lab](https://github.com/jc-tru/siem-detection-and-monitoring)
   - Active Directory with PowerShell Home Lab (In progress - in conjunction with the lab above for AD DS section)
-  - AWS Incident Response with CloudTrail (Write-up in progress)
+  - [AWS Incident Response with CloudTrail](https://github.com/jc-tru/aws-cloudtrail)
   - AWS Cloud Security Configuration (Planning)
 
 - <b>Completed Projects</b>
