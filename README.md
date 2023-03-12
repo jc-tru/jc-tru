@@ -1,5 +1,3 @@
-<h1>Please check back here for updates on Ongoing Projects!</h1>
-
 <h2>Cybersecurity Projects and Home Labs</h2>
 
 - <b>Ongoing Projects</b>
