@@ -1,9 +1,9 @@
 <h2>Cybersecurity Projects and Home Labs</h2>
 
 - <b>Ongoing Projects</b>
-  - [Cybersecurity Detection and Monitoring Home Lab](https://github.com/jc-tru/siem-detection-and-monitoring)
-  - Active Directory with PowerShell Home Lab (In progress - in conjunction with the lab above for AD DS section)
+  - [Cybersecurity Detection and Monitoring with Active Directory Home Lab](https://github.com/jc-tru/siem-detection-and-monitoring)
   - [AWS Incident Response with CloudTrail](https://github.com/jc-tru/aws-cloudtrail)
+  - Security Analysis and Incident Response via Splunk (In progress)
   - Deploying an JavaScript Application via Docker (In progress)
 
 - <b>Completed Projects</b>
